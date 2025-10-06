@@ -4,7 +4,7 @@
 <table>
   <tr>
     <td>
-      🌱 I’m currently learning <strong>C++, Three.js</strong><br><br>
+      🌱 I’m currently learning <strong>C++, Three.js and Unity Game Engine </strong><br><br>
       ✨ Ask me about <strong>JavaScript, HTML/CSS/SCSS, Jqeury, Bootstrap, C++, .NET Core, React, ExpressJS, MongoDB</strong><br><br>
       📫 How to reach me <strong>bakhishlinuray@gmail.com</strong><br><br>
       ⚡ Fun fact <strong>I love Japan culture</strong>
